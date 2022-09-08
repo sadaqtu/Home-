@@ -5,4 +5,4 @@ github
 <h2>browser</h2><br>chrome
 <hr>
 
-url:https://sadaqtu.github.io/gpage/myfile.md
+url:https://sadaqtu.github.io/gpage
