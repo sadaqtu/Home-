@@ -5,4 +5,4 @@ github
 <h2>browser</h2><br>chrome
 <hr>
 
-url:https://sadaqtu.github.io/gpage/readme.mo
+url:https://gpage.com/Index.html
