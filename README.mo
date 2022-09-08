@@ -1,8 +1,8 @@
 <h1>service</h1><br>
-Google <br>
+<br>
 yahoo <br>
 github 
 <h2>browser</h2><br>chrome
 <hr>
 
-url:https://gpage.com/Index.html
+url:https://www.gpage.com/Index.html
