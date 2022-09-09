@@ -1,3 +1,4 @@
 # gpage
 about body 
-<a href="http://gpage.io">about</a>
+<a href="http://gpage.io/home.html">about</a>
+
